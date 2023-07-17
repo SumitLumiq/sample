@@ -1,0 +1,7 @@
+total 20
+drwxrwxr-x 3 sumit sumit 4096 Jul 17 16:46 .
+drwxrwxr-x 3 sumit sumit 4096 Jul 17 16:37 ..
+drwxrwxr-x 8 sumit sumit 4096 Jul 17 16:38 .git
+-rw-rw-r-- 1 sumit sumit    9 Jul 17 16:37 README.md
+-rw-rw-r-- 1 sumit sumit    0 Jul 17 16:46 teadf.txt
+-rw-rw-r-- 1 sumit sumit   61 Jul 17 16:38 test.txt
